@@ -1,0 +1,4 @@
+* About
+  add quote character for standard library *encoding/csv* reader
+
+  see [[https://github.com/kumakichi/mysqldump-to-csv][this example]], a converter turns mysqldump file into csv file
